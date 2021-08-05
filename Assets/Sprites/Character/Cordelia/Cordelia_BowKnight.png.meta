@@ -1,0 +1,3344 @@
+fileFormatVersion: 2
+guid: 43020e260fb05f84db21cc1f716a00f8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4924066548877840522
+    second: Cordelia_BowKnight_0
+  - first:
+      213: -82106830757240308
+    second: Cordelia_BowKnight_1
+  - first:
+      213: 6088240373510524537
+    second: Cordelia_BowKnight_2
+  - first:
+      213: -4307719522474518235
+    second: Cordelia_BowKnight_3
+  - first:
+      213: 687180842193516071
+    second: Cordelia_BowKnight_4
+  - first:
+      213: 8401364375205581797
+    second: Cordelia_BowKnight_5
+  - first:
+      213: 1967087940262002420
+    second: Cordelia_BowKnight_6
+  - first:
+      213: 5449083125771784401
+    second: Cordelia_BowKnight_7
+  - first:
+      213: 4021825876914952596
+    second: Cordelia_BowKnight_8
+  - first:
+      213: -8321138736741327175
+    second: Cordelia_BowKnight_9
+  - first:
+      213: -230493668726699578
+    second: Cordelia_BowKnight_10
+  - first:
+      213: 1699752295978243854
+    second: Cordelia_BowKnight_11
+  - first:
+      213: 4667705893809166005
+    second: Cordelia_BowKnight_12
+  - first:
+      213: 6631792770246402026
+    second: Cordelia_BowKnight_13
+  - first:
+      213: -2060240159873794524
+    second: Cordelia_BowKnight_14
+  - first:
+      213: 896817386397019423
+    second: Cordelia_BowKnight_15
+  - first:
+      213: 3897815799534018518
+    second: Cordelia_BowKnight_16
+  - first:
+      213: 4700239122313612410
+    second: Cordelia_BowKnight_17
+  - first:
+      213: -3284442964523020629
+    second: Cordelia_BowKnight_18
+  - first:
+      213: -9166017230432827293
+    second: Cordelia_BowKnight_19
+  - first:
+      213: -4701369214008533311
+    second: Cordelia_BowKnight_20
+  - first:
+      213: -2502366030895581839
+    second: Cordelia_BowKnight_21
+  - first:
+      213: -3505941268062889484
+    second: Cordelia_BowKnight_22
+  - first:
+      213: 4223475392142417123
+    second: Cordelia_BowKnight_23
+  - first:
+      213: 4652886097340872262
+    second: Cordelia_BowKnight_24
+  - first:
+      213: 8611094125883387887
+    second: Cordelia_BowKnight_25
+  - first:
+      213: -9051794472442153057
+    second: Cordelia_BowKnight_26
+  - first:
+      213: -7037646299990262989
+    second: Cordelia_BowKnight_27
+  - first:
+      213: -581958166439538612
+    second: Cordelia_BowKnight_28
+  - first:
+      213: -5593658492532488841
+    second: Cordelia_BowKnight_29
+  - first:
+      213: -8689458438235240062
+    second: Cordelia_BowKnight_30
+  - first:
+      213: -3863186376775266336
+    second: Cordelia_BowKnight_31
+  - first:
+      213: -1957187465049048091
+    second: Cordelia_BowKnight_32
+  - first:
+      213: -5408128438822424880
+    second: Cordelia_BowKnight_33
+  - first:
+      213: 7847474134603166003
+    second: Cordelia_BowKnight_34
+  - first:
+      213: 8286042514907608962
+    second: Cordelia_BowKnight_35
+  - first:
+      213: 5657921090456973286
+    second: Cordelia_BowKnight_36
+  - first:
+      213: -405618767983246417
+    second: Cordelia_BowKnight_37
+  - first:
+      213: 6153157310339160809
+    second: Cordelia_BowKnight_38
+  - first:
+      213: 3178163356157817613
+    second: Cordelia_BowKnight_39
+  - first:
+      213: -4409734574250296522
+    second: Cordelia_BowKnight_40
+  - first:
+      213: 403031398253216494
+    second: Cordelia_BowKnight_41
+  - first:
+      213: 2151212922030055790
+    second: Cordelia_BowKnight_42
+  - first:
+      213: -1877971437751497881
+    second: Cordelia_BowKnight_43
+  - first:
+      213: 3550665744106924789
+    second: Cordelia_BowKnight_44
+  - first:
+      213: -5759386847863411116
+    second: Cordelia_BowKnight_45
+  - first:
+      213: 2317262973570793427
+    second: Cordelia_BowKnight_46
+  - first:
+      213: 7484259835106686281
+    second: Cordelia_BowKnight_47
+  - first:
+      213: -2830331009407194261
+    second: Cordelia_BowKnight_48
+  - first:
+      213: 4420820594507901271
+    second: Cordelia_BowKnight_49
+  - first:
+      213: -3200072581125890906
+    second: Cordelia_BowKnight_50
+  - first:
+      213: -2044772373497097002
+    second: Cordelia_BowKnight_51
+  - first:
+      213: -100914094687417684
+    second: Cordelia_BowKnight_52
+  - first:
+      213: 2117892074210861523
+    second: Cordelia_BowKnight_53
+  - first:
+      213: -8353667707859017288
+    second: Cordelia_BowKnight_54
+  - first:
+      213: -8470520875195901168
+    second: Cordelia_BowKnight_55
+  - first:
+      213: -2788453015388326128
+    second: Cordelia_BowKnight_56
+  - first:
+      213: 4675657090571371867
+    second: Cordelia_BowKnight_57
+  - first:
+      213: -4612468455430620618
+    second: Cordelia_BowKnight_58
+  - first:
+      213: 2392103637372989623
+    second: Cordelia_BowKnight_59
+  - first:
+      213: -1667338384219246283
+    second: Cordelia_BowKnight_60
+  - first:
+      213: -2502901007306733090
+    second: Cordelia_BowKnight_61
+  - first:
+      213: -2239915822393772544
+    second: Cordelia_BowKnight_62
+  - first:
+      213: -2877313730249340908
+    second: Cordelia_BowKnight_63
+  - first:
+      213: -6930107864349408766
+    second: Cordelia_BowKnight_64
+  - first:
+      213: -6375391149576859766
+    second: Cordelia_BowKnight_65
+  - first:
+      213: 2599818912652452610
+    second: Cordelia_BowKnight_66
+  - first:
+      213: -2614324872497325765
+    second: Cordelia_BowKnight_67
+  - first:
+      213: -1654363397510437774
+    second: Cordelia_BowKnight_68
+  - first:
+      213: 3156027936865742648
+    second: Cordelia_BowKnight_69
+  - first:
+      213: 7148762925140414294
+    second: Cordelia_BowKnight_70
+  - first:
+      213: -1323783634457039759
+    second: Cordelia_BowKnight_71
+  - first:
+      213: 4814320057377851033
+    second: Cordelia_BowKnight_72
+  - first:
+      213: 8335681870017424989
+    second: Cordelia_BowKnight_73
+  - first:
+      213: -4215622564812339232
+    second: Cordelia_BowKnight_74
+  - first:
+      213: -7572303499638518264
+    second: Cordelia_BowKnight_75
+  - first:
+      213: 6625530203289793509
+    second: Cordelia_BowKnight_76
+  - first:
+      213: -934933250881127261
+    second: Cordelia_BowKnight_77
+  - first:
+      213: 8743812115212775296
+    second: Cordelia_BowKnight_78
+  - first:
+      213: -500979060311891946
+    second: Cordelia_BowKnight_79
+  - first:
+      213: 1624138574203331900
+    second: Cordelia_BowKnight_80
+  - first:
+      213: -8751878136148596643
+    second: Cordelia_BowKnight_81
+  - first:
+      213: 2013975691402860853
+    second: Cordelia_BowKnight_82
+  - first:
+      213: -957494285019702853
+    second: Cordelia_BowKnight_83
+  - first:
+      213: 2255884889065594114
+    second: Cordelia_BowKnight_84
+  - first:
+      213: -7293415655906238383
+    second: Cordelia_BowKnight_85
+  - first:
+      213: -348376977458562970
+    second: Cordelia_BowKnight_86
+  - first:
+      213: 7558020978512819642
+    second: Cordelia_BowKnight_87
+  - first:
+      213: -4113339253117260620
+    second: Cordelia_BowKnight_88
+  - first:
+      213: -3610614243873019238
+    second: Cordelia_BowKnight_89
+  - first:
+      213: -7974399280130747286
+    second: Cordelia_BowKnight_90
+  - first:
+      213: -7466402985552275278
+    second: Cordelia_BowKnight_91
+  - first:
+      213: -7026724208296399784
+    second: Cordelia_BowKnight_92
+  - first:
+      213: -3401085886650407295
+    second: Cordelia_BowKnight_93
+  - first:
+      213: 8169435809629343418
+    second: Cordelia_BowKnight_94
+  - first:
+      213: -5240152625455311312
+    second: Cordelia_BowKnight_95
+  - first:
+      213: -6349746725136192595
+    second: Cordelia_BowKnight_96
+  - first:
+      213: -4353229102042144580
+    second: Cordelia_BowKnight_97
+  - first:
+      213: -1321126368136771927
+    second: Cordelia_BowKnight_98
+  - first:
+      213: 1024072735986174974
+    second: Cordelia_BowKnight_99
+  - first:
+      213: -811580730551616353
+    second: Cordelia_BowKnight_100
+  - first:
+      213: 9184119302902935609
+    second: Cordelia_BowKnight_101
+  - first:
+      213: -9223073618030221999
+    second: Cordelia_BowKnight_102
+  - first:
+      213: 325324532186788091
+    second: Cordelia_BowKnight_103
+  - first:
+      213: 5466877548035939946
+    second: Cordelia_BowKnight_104
+  - first:
+      213: -409717123188181425
+    second: Cordelia_BowKnight_105
+  - first:
+      213: 36011831444347245
+    second: Cordelia_BowKnight_106
+  - first:
+      213: -3382332869340453409
+    second: Cordelia_BowKnight_107
+  - first:
+      213: -3786763530819840899
+    second: Cordelia_BowKnight_108
+  - first:
+      213: 3713965096660038713
+    second: Cordelia_BowKnight_109
+  - first:
+      213: 2799321908570762155
+    second: Cordelia_BowKnight_110
+  - first:
+      213: -9006120379166438569
+    second: Cordelia_BowKnight_111
+  - first:
+      213: 591922646345998931
+    second: Cordelia_BowKnight_112
+  - first:
+      213: -6596651846312816125
+    second: Cordelia_BowKnight_113
+  - first:
+      213: -5600446224193740761
+    second: Cordelia_BowKnight_114
+  - first:
+      213: 5503224772048389617
+    second: Cordelia_BowKnight_115
+  - first:
+      213: 2128223596203725725
+    second: Cordelia_BowKnight_116
+  - first:
+      213: -1069933431634926402
+    second: Cordelia_BowKnight_117
+  - first:
+      213: -7201394016478864096
+    second: Cordelia_BowKnight_118
+  - first:
+      213: 8468190166628767297
+    second: Cordelia_BowKnight_119
+  - first:
+      213: -8358906301885402661
+    second: Cordelia_BowKnight_0
+  - first:
+      213: 4700027393717115088
+    second: Cordelia_BowKnight_1
+  - first:
+      213: 7027712853285530047
+    second: Cordelia_BowKnight_2
+  - first:
+      213: 5935702690202746873
+    second: Cordelia_BowKnight_3
+  - first:
+      213: 7281788114429207529
+    second: Cordelia_BowKnight_4
+  - first:
+      213: -356540149447426890
+    second: Cordelia_BowKnight_5
+  - first:
+      213: 6736591291142629142
+    second: Cordelia_BowKnight_6
+  - first:
+      213: 1756336889269763839
+    second: Cordelia_BowKnight_7
+  - first:
+      213: -3640810699987243010
+    second: Cordelia_BowKnight_8
+  - first:
+      213: -7523027595168802004
+    second: Cordelia_BowKnight_9
+  - first:
+      213: 5556695143044340909
+    second: Cordelia_BowKnight_10
+  - first:
+      213: 8953343260405413573
+    second: Cordelia_BowKnight_11
+  - first:
+      213: 8051120299146002528
+    second: Cordelia_BowKnight_12
+  - first:
+      213: -3760946015008376979
+    second: Cordelia_BowKnight_13
+  - first:
+      213: 2424439394043345701
+    second: Cordelia_BowKnight_14
+  - first:
+      213: 2935447582510881049
+    second: Cordelia_BowKnight_15
+  - first:
+      213: 2425988231171207314
+    second: Cordelia_BowKnight_16
+  - first:
+      213: -3391175123958598799
+    second: Cordelia_BowKnight_17
+  - first:
+      213: 3808255953364496267
+    second: Cordelia_BowKnight_18
+  - first:
+      213: -4659477737148433729
+    second: Cordelia_BowKnight_19
+  - first:
+      213: -1491829615451224410
+    second: Cordelia_BowKnight_20
+  - first:
+      213: -6668059027023839314
+    second: Cordelia_BowKnight_21
+  - first:
+      213: 1425304800292631752
+    second: Cordelia_BowKnight_22
+  - first:
+      213: -6765680438339005614
+    second: Cordelia_BowKnight_23
+  - first:
+      213: -3942857246354434904
+    second: Cordelia_BowKnight_24
+  - first:
+      213: -8793050422627305532
+    second: Cordelia_BowKnight_25
+  - first:
+      213: -7059834565016337397
+    second: Cordelia_BowKnight_26
+  - first:
+      213: 5755238967331553542
+    second: Cordelia_BowKnight_27
+  - first:
+      213: -8975526557310997889
+    second: Cordelia_BowKnight_28
+  - first:
+      213: 5342429643959580242
+    second: Cordelia_BowKnight_29
+  - first:
+      213: -304711255671746597
+    second: Cordelia_BowKnight_30
+  - first:
+      213: 9036065942316879523
+    second: Cordelia_BowKnight_31
+  - first:
+      213: -1840095785656496517
+    second: Cordelia_BowKnight_32
+  - first:
+      213: 3365812181250197295
+    second: Cordelia_BowKnight_33
+  - first:
+      213: 8128228936538462100
+    second: Cordelia_BowKnight_34
+  - first:
+      213: -6216240977172927964
+    second: Cordelia_BowKnight_35
+  - first:
+      213: -6767872111649598336
+    second: Cordelia_BowKnight_36
+  - first:
+      213: -363878030358361990
+    second: Cordelia_BowKnight_37
+  - first:
+      213: 5672326808029699333
+    second: Cordelia_BowKnight_38
+  - first:
+      213: 519819554323789351
+    second: Cordelia_BowKnight_39
+  - first:
+      213: -8078408825143157941
+    second: Cordelia_BowKnight_40
+  - first:
+      213: -6252617505319411163
+    second: Cordelia_BowKnight_41
+  - first:
+      213: 6785082778129438755
+    second: Cordelia_BowKnight_42
+  - first:
+      213: 9160074218480491707
+    second: Cordelia_BowKnight_43
+  - first:
+      213: 6579870774213362944
+    second: Cordelia_BowKnight_44
+  - first:
+      213: 5638236884361510241
+    second: Cordelia_BowKnight_45
+  - first:
+      213: 2571538306135593447
+    second: Cordelia_BowKnight_46
+  - first:
+      213: 6556259885853589432
+    second: Cordelia_BowKnight_47
+  - first:
+      213: -6026765885231963773
+    second: Cordelia_BowKnight_48
+  - first:
+      213: -8753193301970756848
+    second: Cordelia_BowKnight_49
+  - first:
+      213: 5153553366725707957
+    second: Cordelia_BowKnight_50
+  - first:
+      213: -1222077544020194424
+    second: Cordelia_BowKnight_51
+  - first:
+      213: -3282033200484528955
+    second: Cordelia_BowKnight_52
+  - first:
+      213: 1862078350161357419
+    second: Cordelia_BowKnight_53
+  - first:
+      213: 7773423115676831715
+    second: Cordelia_BowKnight_54
+  - first:
+      213: -5097096036302582281
+    second: Cordelia_BowKnight_55
+  - first:
+      213: -4575319802346500446
+    second: Cordelia_BowKnight_56
+  - first:
+      213: 6890417965440050183
+    second: Cordelia_BowKnight_57
+  - first:
+      213: 2245433432032110471
+    second: Cordelia_BowKnight_58
+  - first:
+      213: 8824549341144842203
+    second: Cordelia_BowKnight_59
+  - first:
+      213: 3822247529941290720
+    second: Cordelia_BowKnight_60
+  - first:
+      213: 4281732710123444066
+    second: Cordelia_BowKnight_61
+  - first:
+      213: 5047583137992339495
+    second: Cordelia_BowKnight_62
+  - first:
+      213: 7988962406410807563
+    second: Cordelia_BowKnight_63
+  - first:
+      213: 5005990592926150724
+    second: Cordelia_BowKnight_64
+  - first:
+      213: 4487648673381704567
+    second: Cordelia_BowKnight_65
+  - first:
+      213: -4875967443185426830
+    second: Cordelia_BowKnight_66
+  - first:
+      213: -7167971620882662630
+    second: Cordelia_BowKnight_67
+  - first:
+      213: 8612589563146971787
+    second: Cordelia_BowKnight_68
+  - first:
+      213: 5462808131177517316
+    second: Cordelia_BowKnight_69
+  - first:
+      213: 5206148483869007951
+    second: Cordelia_BowKnight_70
+  - first:
+      213: -5968177899222240564
+    second: Cordelia_BowKnight_71
+  - first:
+      213: -4106101364651162351
+    second: Cordelia_BowKnight_72
+  - first:
+      213: -8695788384283426257
+    second: Cordelia_BowKnight_73
+  - first:
+      213: -367174596541787967
+    second: Cordelia_BowKnight_74
+  - first:
+      213: -3567461600306864729
+    second: Cordelia_BowKnight_75
+  - first:
+      213: -7927500315473632411
+    second: Cordelia_BowKnight_76
+  - first:
+      213: 6269245733550048642
+    second: Cordelia_BowKnight_77
+  - first:
+      213: -8335912953355914835
+    second: Cordelia_BowKnight_78
+  - first:
+      213: -7687189243296585514
+    second: Cordelia_BowKnight_79
+  - first:
+      213: -2654615103828936550
+    second: Cordelia_BowKnight_80
+  - first:
+      213: 2944738222875693796
+    second: Cordelia_BowKnight_81
+  - first:
+      213: 2105545140345901990
+    second: Cordelia_BowKnight_82
+  - first:
+      213: 4447256563335153679
+    second: Cordelia_BowKnight_83
+  - first:
+      213: 4074502827112712595
+    second: Cordelia_BowKnight_84
+  - first:
+      213: -947054646858000626
+    second: Cordelia_BowKnight_85
+  - first:
+      213: 6759748223041610317
+    second: Cordelia_BowKnight_86
+  - first:
+      213: -5725928801249131404
+    second: Cordelia_BowKnight_87
+  - first:
+      213: -5613801847284437577
+    second: Cordelia_BowKnight_88
+  - first:
+      213: 8311285450052510595
+    second: Cordelia_BowKnight_89
+  - first:
+      213: 5411697847276949951
+    second: Cordelia_BowKnight_90
+  - first:
+      213: 1769875282454612361
+    second: Cordelia_BowKnight_91
+  - first:
+      213: 8995376740551023956
+    second: Cordelia_BowKnight_92
+  - first:
+      213: -2448684868624540073
+    second: Cordelia_BowKnight_93
+  - first:
+      213: 4377034550781304877
+    second: Cordelia_BowKnight_94
+  - first:
+      213: 8495859200941716662
+    second: Cordelia_BowKnight_95
+  - first:
+      213: 8287936593671724990
+    second: Cordelia_BowKnight_96
+  - first:
+      213: 6181628088399962822
+    second: Cordelia_BowKnight_97
+  - first:
+      213: -2046869097751793664
+    second: Cordelia_BowKnight_98
+  - first:
+      213: -7989930075183525524
+    second: Cordelia_BowKnight_99
+  - first:
+      213: -5555550900400883668
+    second: Cordelia_BowKnight_100
+  - first:
+      213: -5827615278135478237
+    second: Cordelia_BowKnight_101
+  - first:
+      213: 6807678600010391134
+    second: Cordelia_BowKnight_102
+  - first:
+      213: 3819596039514019374
+    second: Cordelia_BowKnight_103
+  - first:
+      213: 5005338743225443553
+    second: Cordelia_BowKnight_104
+  - first:
+      213: -9217606282711737191
+    second: Cordelia_BowKnight_105
+  - first:
+      213: -6846132067545023666
+    second: Cordelia_BowKnight_106
+  - first:
+      213: 8701193647300973010
+    second: Cordelia_BowKnight_107
+  - first:
+      213: 6938037323988704817
+    second: Cordelia_BowKnight_108
+  - first:
+      213: 6924648723541763228
+    second: Cordelia_BowKnight_109
+  - first:
+      213: -3552140611190967042
+    second: Cordelia_BowKnight_110
+  - first:
+      213: -4293281601223759367
+    second: Cordelia_BowKnight_111
+  - first:
+      213: -1223041772855164800
+    second: Cordelia_BowKnight_112
+  - first:
+      213: 3843073229411191007
+    second: Cordelia_BowKnight_113
+  - first:
+      213: -403191238089540116
+    second: Cordelia_BowKnight_114
+  - first:
+      213: 7572068689462070437
+    second: Cordelia_BowKnight_115
+  - first:
+      213: 5771573273856717
+    second: Cordelia_BowKnight_116
+  - first:
+      213: -8947716645291518222
+    second: Cordelia_BowKnight_117
+  - first:
+      213: 3673221209717819028
+    second: Cordelia_BowKnight_118
+  - first:
+      213: 1209885700721946037
+    second: Cordelia_BowKnight_119
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 7
+  spritePivot: {x: 0.5, y: 0}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1b85d71033ffb80800000000000000
+      internalID: -8358906301885402661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d81d15430ad93140800000000000000
+      internalID: 4700027393717115088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9e78b0b93778160800000000000000
+      internalID: 7027712853285530047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff7dd5e52adf5250800000000000000
+      internalID: 5935702690202746873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e632a5bb1e0560800000000000000
+      internalID: 7281788114429207529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc75048f905d0bf0800000000000000
+      internalID: -356540149447426890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617eb89561e2d7d50800000000000000
+      internalID: 6736591291142629142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffeb6d66813cf5810800000000000000
+      internalID: 1756336889269763839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: effa1dc45fd397dc0800000000000000
+      internalID: -3640810699987243010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b908ac246d89790800000000000000
+      internalID: -7523027595168802004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacdb4ebac85d1d40800000000000000
+      internalID: 5556695143044340909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c63a9c224aa04c70800000000000000
+      internalID: 8953343260405413573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c88261435bbf60800000000000000
+      internalID: 8051120299146002528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d673104968f6ecbc0800000000000000
+      internalID: -3760946015008376979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bba6d98c655a120800000000000000
+      internalID: 2424439394043345701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919175c060eccb820800000000000000
+      internalID: 2935447582510881049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290fc3c5177daa120800000000000000
+      internalID: 2425988231171207314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737e45213020f0d0800000000000000
+      internalID: -3391175123958598799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8fae02dc94a9d430800000000000000
+      internalID: 3808255953364496267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fba3d6e5fa5365fb0800000000000000
+      internalID: -4659477737148433729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a64f996ed4fb4be0800000000000000
+      internalID: -1491829615451224410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf38e0d4ab4673a0800000000000000
+      internalID: -6668059027023839314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f91e0a23b7c310800000000000000
+      internalID: 1425304800292631752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2539ef8cc797b12a0800000000000000
+      internalID: -6765680438339005614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a418fe79382849c0800000000000000
+      internalID: -3942857246354434904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7733b6a3fc8f580800000000000000
+      internalID: -8793050422627305532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044d232edd660e90800000000000000
+      internalID: -7059834565016337397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60188452957bedf40800000000000000
+      internalID: 5755238967331553542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa4678626807380800000000000000
+      internalID: -8975526557310997889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2563abda47f142a40800000000000000
+      internalID: 5342429643959580242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4f963ab275cbf0800000000000000
+      internalID: -304711255671746597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae8dc2791e866d70800000000000000
+      internalID: 9036065942316879523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e4047d1aaa676e0800000000000000
+      internalID: -1840095785656496517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27c9149854c5be20800000000000000
+      internalID: 3365812181250197295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4971d6f07254dc070800000000000000
+      internalID: 8128228936538462100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a616d24c97bb9a0800000000000000
+      internalID: -6216240977172927964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0845ad31c20b312a0800000000000000
+      internalID: -6767872111649598336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78cbeafbde33faf0800000000000000
+      internalID: -363878030358361990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d198abd2728be40800000000000000
+      internalID: 5672326808029699333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72675ca6125c63700800000000000000
+      internalID: 519819554323789351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b16fa89f9b3ef80800000000000000
+      internalID: -8078408825143157941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5222c07b18d3a39a0800000000000000
+      internalID: -6252617505319411163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328960a76d4792e50800000000000000
+      internalID: 6785082778129438755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbc5eb438fe1f1f70800000000000000
+      internalID: 9160074218480491707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00546f48b95605b50800000000000000
+      internalID: 6579870774213362944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d7fdbd29a0f3e40800000000000000
+      internalID: 5638236884361510241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1958ff670ffa320800000000000000
+      internalID: 2571538306135593447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf327f21a38cfa50800000000000000
+      internalID: 6556259885853589432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3816e4acb50ac5ca0800000000000000
+      internalID: -6026765885231963773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b54b97119668680800000000000000
+      internalID: -8753193301970756848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b844ba7b79158740800000000000000
+      internalID: 5153553366725707957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88bc1b4d2fe4a0fe0800000000000000
+      internalID: -1222077544020194424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccc4107130e372d0800000000000000
+      internalID: -3282033200484528955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a205dc46e67d910800000000000000
+      internalID: 1862078350161357419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef4aba632fb0eb60800000000000000
+      internalID: 7773423115676831715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd022a192a7349b0800000000000000
+      internalID: -5097096036302582281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae835f71e23180c0800000000000000
+      internalID: -4575319802346500446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7042600f1aeaf9f50800000000000000
+      internalID: 6890417965440050183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7876f034fc1692f10800000000000000
+      internalID: 2245433432032110471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf78dd0fd8177a70800000000000000
+      internalID: 8824549341144842203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eec3c990e95b0530800000000000000
+      internalID: 3822247529941290720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 267141ad635cb6b30800000000000000
+      internalID: 4281732710123444066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720f84aee1e9c0640800000000000000
+      internalID: 5047583137992339495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09e0163bfe7ede60800000000000000
+      internalID: 7988962406410807563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4407f40ebe9d87540800000000000000
+      internalID: 5005990592926150724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7736bad11b4574e30800000000000000
+      internalID: 4487648673381704567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e1094c175155cb0800000000000000
+      internalID: -4875967443185426830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b3531d9cf368c90800000000000000
+      internalID: -7167971620882662630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aac938390168770800000000000000
+      internalID: 8612589563146971787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40193f65d0bcfcb40800000000000000
+      internalID: 5462808131177517316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4063f47674ff3840800000000000000
+      internalID: 5206148483869007951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2758842d5cc2da0800000000000000
+      internalID: -5968177899222240564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115883c50923407c0800000000000000
+      internalID: -4106101364651162351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2281d8698a525780800000000000000
+      internalID: -8695788384283426257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0549a56a887eaf0800000000000000
+      internalID: -367174596541787967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7addcd36394dd7ec0800000000000000
+      internalID: -3567461600306864729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563a56bf67cdbf190800000000000000
+      internalID: -7927500315473632411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28542ed57c5d00750800000000000000
+      internalID: 6269245733550048642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1b4a0a553e05c80800000000000000
+      internalID: -8335912953355914835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d86a189c1e915590800000000000000
+      internalID: -7687189243296585514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a98b3e8b0a9e82bd0800000000000000
+      internalID: -2654615103828936550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e25503dfcfcdd820800000000000000
+      internalID: 2944738222875693796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a31ed44626683d10800000000000000
+      internalID: 2105545140345901990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cd922844d7bd30800000000000000
+      internalID: 4447256563335153679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c06ecbba8b8830800000000000000
+      internalID: 4074502827112712595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07552ff0d26bd2f0800000000000000
+      internalID: -947054646858000626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d422975b1337fcd50800000000000000
+      internalID: 6759748223041610317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4740e50b71a6980b0800000000000000
+      internalID: -5725928801249131404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bded2d86f4c712b0800000000000000
+      internalID: -5613801847284437577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383a04de41e975370800000000000000
+      internalID: 8311285450052510595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb150ba05863a1b40800000000000000
+      internalID: 5411697847276949951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898373313cdf8810800000000000000
+      internalID: 1769875282454612361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dda596c7ff5dc70800000000000000
+      internalID: 8995376740551023956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e92cee516840ed0800000000000000
+      internalID: -2448684868624540073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d206ee0cbb95ebc30800000000000000
+      internalID: 4377034550781304877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b47dd52eea57e570800000000000000
+      internalID: 8495859200941716662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf93caab6aa40370800000000000000
+      internalID: 8287936593671724990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c228a6aefd89c550800000000000000
+      internalID: 6181628088399962822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000b7ce766f0893e0800000000000000
+      internalID: -2046869097751793664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61d978dde01e1190800000000000000
+      internalID: -7989930075183525524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28f00204e7b6e2b0800000000000000
+      internalID: -5555550900400883668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287813d7c6202fa0800000000000000
+      internalID: -5827615278135478237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ed5aa3e9bb97e50800000000000000
+      internalID: 6807678600010391134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26d8b06c5ee10530800000000000000
+      internalID: 3819596039514019374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4e37a4119867540800000000000000
+      internalID: 5005338743225443553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cde8f3ceb741080800000000000000
+      internalID: -9217606282711737191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b719c2827adf0a0800000000000000
+      internalID: -6846132067545023666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d192457589d0c870800000000000000
+      internalID: 8701193647300973010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9fb6df2cd84060800000000000000
+      internalID: 6938037323988704817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94a111635b491060800000000000000
+      internalID: 6924648723541763228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef439b52fe244bec0800000000000000
+      internalID: -3552140611190967042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9665661233b64c0800000000000000
+      internalID: -4293281601223759367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080018fccf1e60fe0800000000000000
+      internalID: -1223041772855164800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd80edc9db6555530800000000000000
+      internalID: 3843073229411191007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced7f1584b3976af0800000000000000
+      internalID: -403191238089540116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac8e32ca54651960800000000000000
+      internalID: 7572068689462070437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca88ce1731841000800000000000000
+      internalID: 5771573273856717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69c8e3e1353d380800000000000000
+      internalID: -8947716645291518222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49649aa8a37e9f230800000000000000
+      internalID: 3673221209717819028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_BowKnight_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2b5272a06ac010800000000000000
+      internalID: 1209885700721946037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

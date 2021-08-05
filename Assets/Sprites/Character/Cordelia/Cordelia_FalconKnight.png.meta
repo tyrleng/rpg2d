@@ -1,0 +1,3995 @@
+fileFormatVersion: 2
+guid: 806f6c8c5390d3743a2205c9b7888098
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7799408663078178307
+    second: Cordelia_FalconKnight_0
+  - first:
+      213: -4075064433707229190
+    second: Cordelia_FalconKnight_1
+  - first:
+      213: 7866015815789517116
+    second: Cordelia_FalconKnight_2
+  - first:
+      213: 7695564404842844266
+    second: Cordelia_FalconKnight_3
+  - first:
+      213: 312355438438054868
+    second: Cordelia_FalconKnight_4
+  - first:
+      213: 1406196937966138766
+    second: Cordelia_FalconKnight_5
+  - first:
+      213: -90526362514752537
+    second: Cordelia_FalconKnight_6
+  - first:
+      213: -7254229893131044219
+    second: Cordelia_FalconKnight_7
+  - first:
+      213: 8794143137567005037
+    second: Cordelia_FalconKnight_8
+  - first:
+      213: 7983239763573683790
+    second: Cordelia_FalconKnight_9
+  - first:
+      213: -5442691160331416050
+    second: Cordelia_FalconKnight_10
+  - first:
+      213: 6345219454378109932
+    second: Cordelia_FalconKnight_11
+  - first:
+      213: 5188005198105977527
+    second: Cordelia_FalconKnight_12
+  - first:
+      213: -2624516024222983967
+    second: Cordelia_FalconKnight_13
+  - first:
+      213: -5999112370062683127
+    second: Cordelia_FalconKnight_14
+  - first:
+      213: -1173586505681399949
+    second: Cordelia_FalconKnight_15
+  - first:
+      213: -8137325015775777
+    second: Cordelia_FalconKnight_16
+  - first:
+      213: -1761611969541734456
+    second: Cordelia_FalconKnight_17
+  - first:
+      213: 3817277063794938591
+    second: Cordelia_FalconKnight_18
+  - first:
+      213: -371387245526895681
+    second: Cordelia_FalconKnight_19
+  - first:
+      213: -7751317360552845372
+    second: Cordelia_FalconKnight_20
+  - first:
+      213: 8750187524620027018
+    second: Cordelia_FalconKnight_21
+  - first:
+      213: -4494263863392834223
+    second: Cordelia_FalconKnight_22
+  - first:
+      213: 8886871953869857625
+    second: Cordelia_FalconKnight_23
+  - first:
+      213: -2150064722268904541
+    second: Cordelia_FalconKnight_24
+  - first:
+      213: 4018306938024470166
+    second: Cordelia_FalconKnight_25
+  - first:
+      213: 2043147121856222336
+    second: Cordelia_FalconKnight_26
+  - first:
+      213: -2682116180250423555
+    second: Cordelia_FalconKnight_27
+  - first:
+      213: -7874691832718099752
+    second: Cordelia_FalconKnight_28
+  - first:
+      213: -5645786069985784940
+    second: Cordelia_FalconKnight_29
+  - first:
+      213: 2064887299810228496
+    second: Cordelia_FalconKnight_30
+  - first:
+      213: 4477463288509721113
+    second: Cordelia_FalconKnight_31
+  - first:
+      213: -7444801948946450821
+    second: Cordelia_FalconKnight_32
+  - first:
+      213: 7124136824063558990
+    second: Cordelia_FalconKnight_33
+  - first:
+      213: -9094251285715813282
+    second: Cordelia_FalconKnight_34
+  - first:
+      213: -624027866592446337
+    second: Cordelia_FalconKnight_35
+  - first:
+      213: 3914305796825804735
+    second: Cordelia_FalconKnight_36
+  - first:
+      213: -5843814859538486244
+    second: Cordelia_FalconKnight_37
+  - first:
+      213: 5752208756710140046
+    second: Cordelia_FalconKnight_38
+  - first:
+      213: -7493918558586288731
+    second: Cordelia_FalconKnight_39
+  - first:
+      213: 803318193725161442
+    second: Cordelia_FalconKnight_40
+  - first:
+      213: 8301839761463698667
+    second: Cordelia_FalconKnight_41
+  - first:
+      213: -6439727965680112643
+    second: Cordelia_FalconKnight_42
+  - first:
+      213: -1969976869115810581
+    second: Cordelia_FalconKnight_43
+  - first:
+      213: 8702930211164222132
+    second: Cordelia_FalconKnight_44
+  - first:
+      213: -4624664890524713047
+    second: Cordelia_FalconKnight_45
+  - first:
+      213: -483231970694554075
+    second: Cordelia_FalconKnight_46
+  - first:
+      213: -3691174213892086494
+    second: Cordelia_FalconKnight_47
+  - first:
+      213: 6910987007410454030
+    second: Cordelia_FalconKnight_48
+  - first:
+      213: -9015279187816671553
+    second: Cordelia_FalconKnight_49
+  - first:
+      213: 3206584901016948845
+    second: Cordelia_FalconKnight_50
+  - first:
+      213: -6253194693603455575
+    second: Cordelia_FalconKnight_51
+  - first:
+      213: -3570482367360627011
+    second: Cordelia_FalconKnight_52
+  - first:
+      213: -3070430483432936334
+    second: Cordelia_FalconKnight_53
+  - first:
+      213: -2544638443889557492
+    second: Cordelia_FalconKnight_54
+  - first:
+      213: 4862031058564916216
+    second: Cordelia_FalconKnight_55
+  - first:
+      213: -1703016153008301582
+    second: Cordelia_FalconKnight_56
+  - first:
+      213: 9063500589164438064
+    second: Cordelia_FalconKnight_57
+  - first:
+      213: -2782598791161599540
+    second: Cordelia_FalconKnight_58
+  - first:
+      213: -8534066872863851879
+    second: Cordelia_FalconKnight_59
+  - first:
+      213: 5443610192556092558
+    second: Cordelia_FalconKnight_60
+  - first:
+      213: -3013707719071968799
+    second: Cordelia_FalconKnight_61
+  - first:
+      213: -3662733616835282431
+    second: Cordelia_FalconKnight_62
+  - first:
+      213: 3432563374232115401
+    second: Cordelia_FalconKnight_63
+  - first:
+      213: 8069324077136276726
+    second: Cordelia_FalconKnight_64
+  - first:
+      213: -6569626111435214776
+    second: Cordelia_FalconKnight_65
+  - first:
+      213: -1043629037820321012
+    second: Cordelia_FalconKnight_66
+  - first:
+      213: 8605299349514391530
+    second: Cordelia_FalconKnight_67
+  - first:
+      213: -7406240065961731007
+    second: Cordelia_FalconKnight_68
+  - first:
+      213: 1231332045239024250
+    second: Cordelia_FalconKnight_69
+  - first:
+      213: -2286263491366920907
+    second: Cordelia_FalconKnight_70
+  - first:
+      213: -5884368530551185900
+    second: Cordelia_FalconKnight_71
+  - first:
+      213: 2540173384784732952
+    second: Cordelia_FalconKnight_72
+  - first:
+      213: -9178071148099047229
+    second: Cordelia_FalconKnight_73
+  - first:
+      213: 2823999751855244592
+    second: Cordelia_FalconKnight_74
+  - first:
+      213: 7389680970492033610
+    second: Cordelia_FalconKnight_75
+  - first:
+      213: -1282769034634714992
+    second: Cordelia_FalconKnight_76
+  - first:
+      213: -619616815070175958
+    second: Cordelia_FalconKnight_77
+  - first:
+      213: 1612948623906571629
+    second: Cordelia_FalconKnight_78
+  - first:
+      213: -446624906311678359
+    second: Cordelia_FalconKnight_79
+  - first:
+      213: 1584095329899934315
+    second: Cordelia_FalconKnight_80
+  - first:
+      213: 7095563711812505076
+    second: Cordelia_FalconKnight_81
+  - first:
+      213: -700992852777377050
+    second: Cordelia_FalconKnight_82
+  - first:
+      213: 1206608995072910909
+    second: Cordelia_FalconKnight_83
+  - first:
+      213: 5850848248526207998
+    second: Cordelia_FalconKnight_84
+  - first:
+      213: 7337974652948028908
+    second: Cordelia_FalconKnight_85
+  - first:
+      213: 8369975572282695172
+    second: Cordelia_FalconKnight_86
+  - first:
+      213: 161136243754013058
+    second: Cordelia_FalconKnight_87
+  - first:
+      213: -1319515609120085119
+    second: Cordelia_FalconKnight_88
+  - first:
+      213: 4202244127431261361
+    second: Cordelia_FalconKnight_89
+  - first:
+      213: -3732161214043863978
+    second: Cordelia_FalconKnight_90
+  - first:
+      213: 7910192767963296952
+    second: Cordelia_FalconKnight_91
+  - first:
+      213: 6708378739032247450
+    second: Cordelia_FalconKnight_92
+  - first:
+      213: 7209798599640885448
+    second: Cordelia_FalconKnight_93
+  - first:
+      213: 7292600725810213370
+    second: Cordelia_FalconKnight_94
+  - first:
+      213: 7277836586949966556
+    second: Cordelia_FalconKnight_95
+  - first:
+      213: 3901663102091351016
+    second: Cordelia_FalconKnight_96
+  - first:
+      213: -8353174010991523421
+    second: Cordelia_FalconKnight_97
+  - first:
+      213: 6510659865810737481
+    second: Cordelia_FalconKnight_98
+  - first:
+      213: -1508307221346573421
+    second: Cordelia_FalconKnight_99
+  - first:
+      213: 5921324022474444731
+    second: Cordelia_FalconKnight_100
+  - first:
+      213: 7894896758041848756
+    second: Cordelia_FalconKnight_101
+  - first:
+      213: 8829292957783731001
+    second: Cordelia_FalconKnight_102
+  - first:
+      213: 5296693548852607758
+    second: Cordelia_FalconKnight_103
+  - first:
+      213: -1945159896944795853
+    second: Cordelia_FalconKnight_104
+  - first:
+      213: 5211024573067833116
+    second: Cordelia_FalconKnight_105
+  - first:
+      213: 7406948486481857067
+    second: Cordelia_FalconKnight_106
+  - first:
+      213: -1878692124647110752
+    second: Cordelia_FalconKnight_107
+  - first:
+      213: 5982346471191488610
+    second: Cordelia_FalconKnight_108
+  - first:
+      213: -1497807392526046991
+    second: Cordelia_FalconKnight_109
+  - first:
+      213: 9009888670178920082
+    second: Cordelia_FalconKnight_110
+  - first:
+      213: 7252572181024601065
+    second: Cordelia_FalconKnight_111
+  - first:
+      213: 5853395224447424893
+    second: Cordelia_FalconKnight_112
+  - first:
+      213: -3593620668424356908
+    second: Cordelia_FalconKnight_113
+  - first:
+      213: 5538023583289675131
+    second: Cordelia_FalconKnight_114
+  - first:
+      213: -5612026320080206733
+    second: Cordelia_FalconKnight_115
+  - first:
+      213: -7133237052267474046
+    second: Cordelia_FalconKnight_116
+  - first:
+      213: -1873723565251783921
+    second: Cordelia_FalconKnight_117
+  - first:
+      213: -6355269862896191801
+    second: Cordelia_FalconKnight_118
+  - first:
+      213: 7918370629944367432
+    second: Cordelia_FalconKnight_119
+  - first:
+      213: 8014665238052315099
+    second: Cordelia_FalconKnight_120
+  - first:
+      213: 8647566995396189325
+    second: Cordelia_FalconKnight_0
+  - first:
+      213: 8518595404610377257
+    second: Cordelia_FalconKnight_1
+  - first:
+      213: -7764960216173843305
+    second: Cordelia_FalconKnight_2
+  - first:
+      213: 111753915217697715
+    second: Cordelia_FalconKnight_3
+  - first:
+      213: 2315885854789045227
+    second: Cordelia_FalconKnight_4
+  - first:
+      213: -173386974015379502
+    second: Cordelia_FalconKnight_5
+  - first:
+      213: 9050149362807791553
+    second: Cordelia_FalconKnight_6
+  - first:
+      213: -8320925446676438294
+    second: Cordelia_FalconKnight_7
+  - first:
+      213: -8040326144761899602
+    second: Cordelia_FalconKnight_8
+  - first:
+      213: -8270556157327952364
+    second: Cordelia_FalconKnight_9
+  - first:
+      213: 1805214306641758552
+    second: Cordelia_FalconKnight_10
+  - first:
+      213: -7667031440824991248
+    second: Cordelia_FalconKnight_11
+  - first:
+      213: 1866457021379447072
+    second: Cordelia_FalconKnight_12
+  - first:
+      213: -5813917455278037950
+    second: Cordelia_FalconKnight_13
+  - first:
+      213: -380157813706534899
+    second: Cordelia_FalconKnight_14
+  - first:
+      213: -323241764410905648
+    second: Cordelia_FalconKnight_15
+  - first:
+      213: -7406614247958314483
+    second: Cordelia_FalconKnight_16
+  - first:
+      213: 4426188935636564522
+    second: Cordelia_FalconKnight_17
+  - first:
+      213: 8503575564773126875
+    second: Cordelia_FalconKnight_18
+  - first:
+      213: 8486167700714714248
+    second: Cordelia_FalconKnight_19
+  - first:
+      213: 5570851379664087596
+    second: Cordelia_FalconKnight_20
+  - first:
+      213: 4591765980687641319
+    second: Cordelia_FalconKnight_21
+  - first:
+      213: 4808551150316751961
+    second: Cordelia_FalconKnight_22
+  - first:
+      213: 3811371437220321375
+    second: Cordelia_FalconKnight_23
+  - first:
+      213: -7456057521810033437
+    second: Cordelia_FalconKnight_24
+  - first:
+      213: -64528395905117352
+    second: Cordelia_FalconKnight_25
+  - first:
+      213: 8232052838751114277
+    second: Cordelia_FalconKnight_26
+  - first:
+      213: 8256121807581822513
+    second: Cordelia_FalconKnight_27
+  - first:
+      213: -4637416107090524045
+    second: Cordelia_FalconKnight_28
+  - first:
+      213: 4667077291760105900
+    second: Cordelia_FalconKnight_29
+  - first:
+      213: 390906055486099314
+    second: Cordelia_FalconKnight_30
+  - first:
+      213: 5895289126583730482
+    second: Cordelia_FalconKnight_31
+  - first:
+      213: 44544408337091499
+    second: Cordelia_FalconKnight_32
+  - first:
+      213: -5992468516704639024
+    second: Cordelia_FalconKnight_33
+  - first:
+      213: 2120613494824548851
+    second: Cordelia_FalconKnight_34
+  - first:
+      213: -4497577240720035934
+    second: Cordelia_FalconKnight_35
+  - first:
+      213: -463250676879648712
+    second: Cordelia_FalconKnight_36
+  - first:
+      213: 4958992623364786220
+    second: Cordelia_FalconKnight_37
+  - first:
+      213: -706652931937175013
+    second: Cordelia_FalconKnight_38
+  - first:
+      213: 1390559466923781422
+    second: Cordelia_FalconKnight_39
+  - first:
+      213: 3047028402677588596
+    second: Cordelia_FalconKnight_40
+  - first:
+      213: -2394676868624391677
+    second: Cordelia_FalconKnight_41
+  - first:
+      213: 8263932024460574164
+    second: Cordelia_FalconKnight_42
+  - first:
+      213: -6310901763787707504
+    second: Cordelia_FalconKnight_43
+  - first:
+      213: 1045303925134065732
+    second: Cordelia_FalconKnight_44
+  - first:
+      213: -900811273265100205
+    second: Cordelia_FalconKnight_45
+  - first:
+      213: -7352059641585525517
+    second: Cordelia_FalconKnight_46
+  - first:
+      213: -336100053110002777
+    second: Cordelia_FalconKnight_47
+  - first:
+      213: -1372535359697485050
+    second: Cordelia_FalconKnight_48
+  - first:
+      213: -8447755990101616151
+    second: Cordelia_FalconKnight_49
+  - first:
+      213: 6695191044752704345
+    second: Cordelia_FalconKnight_50
+  - first:
+      213: 3591388345247848147
+    second: Cordelia_FalconKnight_51
+  - first:
+      213: -6234643212701987280
+    second: Cordelia_FalconKnight_52
+  - first:
+      213: 1820692496375018015
+    second: Cordelia_FalconKnight_53
+  - first:
+      213: -4390014215469306937
+    second: Cordelia_FalconKnight_54
+  - first:
+      213: 8764288868025221977
+    second: Cordelia_FalconKnight_55
+  - first:
+      213: 3098867171309161154
+    second: Cordelia_FalconKnight_56
+  - first:
+      213: 9118010434559535291
+    second: Cordelia_FalconKnight_57
+  - first:
+      213: 1051121366688957331
+    second: Cordelia_FalconKnight_58
+  - first:
+      213: 9207132377411784677
+    second: Cordelia_FalconKnight_59
+  - first:
+      213: 7621960678810422712
+    second: Cordelia_FalconKnight_60
+  - first:
+      213: -6307953045184219260
+    second: Cordelia_FalconKnight_61
+  - first:
+      213: 2609197453505102575
+    second: Cordelia_FalconKnight_62
+  - first:
+      213: -4736700571856831307
+    second: Cordelia_FalconKnight_63
+  - first:
+      213: -794089498806447216
+    second: Cordelia_FalconKnight_64
+  - first:
+      213: 1639370305991677309
+    second: Cordelia_FalconKnight_65
+  - first:
+      213: -6686289127533437026
+    second: Cordelia_FalconKnight_66
+  - first:
+      213: 7939145804091262675
+    second: Cordelia_FalconKnight_67
+  - first:
+      213: 7798866333687661944
+    second: Cordelia_FalconKnight_68
+  - first:
+      213: -4442882951996422731
+    second: Cordelia_FalconKnight_69
+  - first:
+      213: -3212751014240650816
+    second: Cordelia_FalconKnight_70
+  - first:
+      213: 4671560998116209641
+    second: Cordelia_FalconKnight_71
+  - first:
+      213: -2076443899432948040
+    second: Cordelia_FalconKnight_72
+  - first:
+      213: -1801452900967823030
+    second: Cordelia_FalconKnight_73
+  - first:
+      213: 7726324744962752923
+    second: Cordelia_FalconKnight_74
+  - first:
+      213: 6443729714167651604
+    second: Cordelia_FalconKnight_75
+  - first:
+      213: 4115782034319946778
+    second: Cordelia_FalconKnight_76
+  - first:
+      213: -4566900922574172360
+    second: Cordelia_FalconKnight_77
+  - first:
+      213: -4654367993873752658
+    second: Cordelia_FalconKnight_78
+  - first:
+      213: 3529219923376580448
+    second: Cordelia_FalconKnight_79
+  - first:
+      213: 2319255129187478154
+    second: Cordelia_FalconKnight_80
+  - first:
+      213: -6144486176406069491
+    second: Cordelia_FalconKnight_81
+  - first:
+      213: 2224335945906313634
+    second: Cordelia_FalconKnight_82
+  - first:
+      213: -6786780278985324573
+    second: Cordelia_FalconKnight_83
+  - first:
+      213: 8180992627629831357
+    second: Cordelia_FalconKnight_84
+  - first:
+      213: 5412500590304444876
+    second: Cordelia_FalconKnight_85
+  - first:
+      213: -6647708488029071599
+    second: Cordelia_FalconKnight_86
+  - first:
+      213: -6444027024587380154
+    second: Cordelia_FalconKnight_87
+  - first:
+      213: -5902405084390249397
+    second: Cordelia_FalconKnight_88
+  - first:
+      213: -3269531128284962512
+    second: Cordelia_FalconKnight_89
+  - first:
+      213: 1255308756989358676
+    second: Cordelia_FalconKnight_90
+  - first:
+      213: 9153569394211906640
+    second: Cordelia_FalconKnight_91
+  - first:
+      213: -7948372615727638139
+    second: Cordelia_FalconKnight_92
+  - first:
+      213: -4286634624708635560
+    second: Cordelia_FalconKnight_93
+  - first:
+      213: 5283248771208708334
+    second: Cordelia_FalconKnight_94
+  - first:
+      213: 758762230244604103
+    second: Cordelia_FalconKnight_95
+  - first:
+      213: 2382201242406494141
+    second: Cordelia_FalconKnight_96
+  - first:
+      213: 2022632147763516665
+    second: Cordelia_FalconKnight_97
+  - first:
+      213: -5616744096362820081
+    second: Cordelia_FalconKnight_98
+  - first:
+      213: -1076704265884820073
+    second: Cordelia_FalconKnight_99
+  - first:
+      213: -3085359106413599610
+    second: Cordelia_FalconKnight_100
+  - first:
+      213: -527662372980201167
+    second: Cordelia_FalconKnight_101
+  - first:
+      213: -292683528498092286
+    second: Cordelia_FalconKnight_102
+  - first:
+      213: 3083059110529989636
+    second: Cordelia_FalconKnight_103
+  - first:
+      213: -5989604611394147828
+    second: Cordelia_FalconKnight_104
+  - first:
+      213: 334831918744743005
+    second: Cordelia_FalconKnight_105
+  - first:
+      213: -3295935430829004245
+    second: Cordelia_FalconKnight_106
+  - first:
+      213: 324824331925760956
+    second: Cordelia_FalconKnight_107
+  - first:
+      213: 1071534715908602233
+    second: Cordelia_FalconKnight_108
+  - first:
+      213: -1579533654273857273
+    second: Cordelia_FalconKnight_109
+  - first:
+      213: 3467904164987830059
+    second: Cordelia_FalconKnight_110
+  - first:
+      213: 8504476965651968127
+    second: Cordelia_FalconKnight_111
+  - first:
+      213: -1910479082762598649
+    second: Cordelia_FalconKnight_112
+  - first:
+      213: -4828607301788435498
+    second: Cordelia_FalconKnight_113
+  - first:
+      213: 7249214018610574087
+    second: Cordelia_FalconKnight_114
+  - first:
+      213: -508172040506217052
+    second: Cordelia_FalconKnight_115
+  - first:
+      213: -7022410206230757184
+    second: Cordelia_FalconKnight_116
+  - first:
+      213: 525124528553534601
+    second: Cordelia_FalconKnight_117
+  - first:
+      213: -123053922102800721
+    second: Cordelia_FalconKnight_118
+  - first:
+      213: 2625050998471530546
+    second: Cordelia_FalconKnight_119
+  - first:
+      213: 7177022413262727472
+    second: Cordelia_FalconKnight_120
+  - first:
+      213: -4606723448148504799
+    second: Cordelia_FalconKnight_121
+  - first:
+      213: -1483312315463659224
+    second: Cordelia_FalconKnight_122
+  - first:
+      213: 229439991094151539
+    second: Cordelia_FalconKnight_123
+  - first:
+      213: 5435550840898451135
+    second: Cordelia_FalconKnight_124
+  - first:
+      213: -538645181755922728
+    second: Cordelia_FalconKnight_125
+  - first:
+      213: -3881976719624914145
+    second: Cordelia_FalconKnight_126
+  - first:
+      213: 1605728859647633740
+    second: Cordelia_FalconKnight_127
+  - first:
+      213: -1792839739008535644
+    second: Cordelia_FalconKnight_128
+  - first:
+      213: -8148654495519687254
+    second: Cordelia_FalconKnight_129
+  - first:
+      213: -8546303060333062453
+    second: Cordelia_FalconKnight_130
+  - first:
+      213: 8875488986054051580
+    second: Cordelia_FalconKnight_131
+  - first:
+      213: 9010875425386816392
+    second: Cordelia_FalconKnight_132
+  - first:
+      213: -7291057359584203089
+    second: Cordelia_FalconKnight_133
+  - first:
+      213: 7347827907534798656
+    second: Cordelia_FalconKnight_134
+  - first:
+      213: -5891356222350180592
+    second: Cordelia_FalconKnight_135
+  - first:
+      213: -5269764176341423289
+    second: Cordelia_FalconKnight_136
+  - first:
+      213: -6648930004204709962
+    second: Cordelia_FalconKnight_137
+  - first:
+      213: 3854069764366049806
+    second: Cordelia_FalconKnight_138
+  - first:
+      213: 4575309635436395113
+    second: Cordelia_FalconKnight_139
+  - first:
+      213: -3301232663215717218
+    second: Cordelia_FalconKnight_140
+  - first:
+      213: -6967421788306599819
+    second: Cordelia_FalconKnight_141
+  - first:
+      213: -2676528385556674616
+    second: Cordelia_FalconKnight_142
+  - first:
+      213: -3167043681107307752
+    second: Cordelia_FalconKnight_143
+  - first:
+      213: -3752496583775485641
+    second: Cordelia_FalconKnight_144
+  - first:
+      213: 1117088803522931624
+    second: Cordelia_FalconKnight_145
+  - first:
+      213: 4612996232290406824
+    second: Cordelia_FalconKnight_146
+  - first:
+      213: -3189009516116724455
+    second: Cordelia_FalconKnight_147
+  - first:
+      213: -4029778501142171694
+    second: Cordelia_FalconKnight_148
+  - first:
+      213: -619889996107212369
+    second: Cordelia_FalconKnight_149
+  - first:
+      213: 5715547754465075609
+    second: Cordelia_FalconKnight_150
+  - first:
+      213: -6091738235930803390
+    second: Cordelia_FalconKnight_151
+  - first:
+      213: -8272204539187380638
+    second: Cordelia_FalconKnight_152
+  - first:
+      213: -5914972663649536220
+    second: Cordelia_FalconKnight_153
+  - first:
+      213: -3354950190893874465
+    second: Cordelia_FalconKnight_154
+  - first:
+      213: 2329559928246324752
+    second: Cordelia_FalconKnight_155
+  - first:
+      213: 7081816381615428949
+    second: Cordelia_FalconKnight_156
+  - first:
+      213: -7208190297464000102
+    second: Cordelia_FalconKnight_157
+  - first:
+      213: 6648974838833347930
+    second: Cordelia_FalconKnight_158
+  - first:
+      213: 8082343197219613910
+    second: Cordelia_FalconKnight_159
+  - first:
+      213: -1194098843222149154
+    second: Cordelia_FalconKnight_160
+  - first:
+      213: 5459471341372042126
+    second: Cordelia_FalconKnight_161
+  - first:
+      213: 9159904423477743535
+    second: Cordelia_FalconKnight_162
+  - first:
+      213: -5940501217761222233
+    second: Cordelia_FalconKnight_163
+  - first:
+      213: -962296040816057089
+    second: Cordelia_FalconKnight_164
+  - first:
+      213: -7489490934893614733
+    second: Cordelia_FalconKnight_165
+  - first:
+      213: 8412135592501950758
+    second: Cordelia_FalconKnight_166
+  - first:
+      213: 6042637433807640278
+    second: Cordelia_FalconKnight_167
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c5bf39d54520870800000000000000
+      internalID: 8647566995396189325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92693151361283670800000000000000
+      internalID: 8518595404610377257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ceaebe2d15d3490800000000000000
+      internalID: -7764960216173843305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb5fc208970d8100800000000000000
+      internalID: 111753915217697715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb8d033aeda32020800000000000000
+      internalID: 2315885854789045227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7222d3771089df0800000000000000
+      internalID: -173386974015379502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfd26e45e6989d70800000000000000
+      internalID: 9050149362807791553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2a7547462268c80800000000000000
+      internalID: -8320925446676438294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55e2788f50b6090800000000000000
+      internalID: -8040326144761899602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4163c838ef4193d80800000000000000
+      internalID: -8270556157327952364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859c5d2f8d86d0910800000000000000
+      internalID: 1805214306641758552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 477
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f100e7b68b399590800000000000000
+      internalID: -7667031440824991248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290bd3a5ccf6e910800000000000000
+      internalID: 1866457021379447072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a5bcb0e0d05fa0800000000000000
+      internalID: -5813917455278037950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00de6b8b7869baf0800000000000000
+      internalID: -380157813706534899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dba7bfe35d938bf0800000000000000
+      internalID: -323241764410905648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02091a559b663990800000000000000
+      internalID: -7406614247958314483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ab161d26bfc6d30800000000000000
+      internalID: 4426188935636564522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd27efa1ce4c20670800000000000000
+      internalID: 8503575564773126875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8847e79ef8ce4c570800000000000000
+      internalID: 8486167700714714248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a6f5d60d3af4d40800000000000000
+      internalID: 5570851379664087596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea2c9ac4da39bf30800000000000000
+      internalID: 4591765980687641319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c0dee5bc76bb240800000000000000
+      internalID: 4808551150316751961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 442
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58569ee026b4e430800000000000000
+      internalID: 3811371437220321375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e432a31033c68890800000000000000
+      internalID: -7456057521810033437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853562c04cfba1ff0800000000000000
+      internalID: -64528395905117352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524910a01702e3270800000000000000
+      internalID: 8232052838751114277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e354b8a03a39270800000000000000
+      internalID: 8256121807581822513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378c135ee9694afb0800000000000000
+      internalID: -4637416107090524045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca937a2d11ac4c040800000000000000
+      internalID: 4667077291760105900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f4cc18cf6cc6500800000000000000
+      internalID: 390906055486099314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2310f3ed93640d150800000000000000
+      internalID: 5895289126583730482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab89a347e04e9000800000000000000
+      internalID: 44544408337091499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7ab1e22a976dca0800000000000000
+      internalID: -5992468516704639024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9bae0fcbeed6d10800000000000000
+      internalID: 2120613494824548851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 407
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af200924556591c0800000000000000
+      internalID: -4497577240720035934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83811aab6f33299f0800000000000000
+      internalID: -463250676879648712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28c07f5481e1d440800000000000000
+      internalID: 4958992623364786220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a756407e67136f0800000000000000
+      internalID: -706652931937175013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d6c09b7724c4310800000000000000
+      internalID: 1390559466923781422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472af1a3038394a20800000000000000
+      internalID: 3047028402677588596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3026cc5531664ced0800000000000000
+      internalID: -2394676868624391677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd72fd54626fa270800000000000000
+      internalID: 8263932024460574164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b2c0d484c2b68a0800000000000000
+      internalID: -6310901763787707504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44000f3b16aa18e00800000000000000
+      internalID: 1045303925134065732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35acd5f6becaf73f0800000000000000
+      internalID: -900811273265100205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc1fc775bc38f990800000000000000
+      internalID: -7352059641585525517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 372
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab636d48cee55bf0800000000000000
+      internalID: -336100053110002777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6038193cc56c3fce0800000000000000
+      internalID: -1372535359697485050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e990d46faa83ca80800000000000000
+      internalID: -8447755990101616151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9538cd558c81aec50800000000000000
+      internalID: 6695191044752704345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6d9f80cac27d130800000000000000
+      internalID: 3591388345247848147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e0995d7091a79a0800000000000000
+      internalID: -6234643212701987280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12f6a3dd26644910800000000000000
+      internalID: 1820692496375018015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb690094598313c0800000000000000
+      internalID: -4390014215469306937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953cd8f4a4201a970800000000000000
+      internalID: 8764288868025221977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca80081643610b20800000000000000
+      internalID: 3098867171309161154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8e9325e2ea98e70800000000000000
+      internalID: 9118010434559535291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393815d5055569e00800000000000000
+      internalID: 1051121366688957331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 337
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef80a3ad1e46cf70800000000000000
+      internalID: 9207132377411784677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8d70cad4a6c960800000000000000
+      internalID: 7621960678810422712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48773f95026a578a0800000000000000
+      internalID: -6307953045184219260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe28605824bb53420800000000000000
+      internalID: 2609197453505102575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc751f0debd34eb0800000000000000
+      internalID: -4736700571856831307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09316cfdec3daf4f0800000000000000
+      internalID: -794089498806447216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7515f78b9630c610800000000000000
+      internalID: 1639370305991677309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f10d7c6778533a0800000000000000
+      internalID: -6686289127533437026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d684e0ab038d2e60800000000000000
+      internalID: 7939145804091262675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875c43e3c932b3c60800000000000000
+      internalID: 7798866333687661944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b54d9b9e75b752c0800000000000000
+      internalID: -4442882951996422731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9f86479f30a63d0800000000000000
+      internalID: -3212751014240650816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 302
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3394f0af7b4d040800000000000000
+      internalID: 4671560998116209641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bea542664dfe23e0800000000000000
+      internalID: -2076443899432948040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49473e8124fff6e0800000000000000
+      internalID: -1801452900967823030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91c0d27b6b693b60800000000000000
+      internalID: 7726324744962752923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9791e80abc6950800000000000000
+      internalID: 6443729714167651604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14339034f13e1930800000000000000
+      internalID: 4115782034319946778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f0091becb1f90c0800000000000000
+      internalID: -4566900922574172360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead153f28fc586fb0800000000000000
+      internalID: -4654367993873752658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067a71b52de4af030800000000000000
+      internalID: 3529219923376580448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ae8b68046af2020800000000000000
+      internalID: 2319255129187478154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f9400a0666abaa0800000000000000
+      internalID: -6144486176406069491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d0ecf1cd6ede10800000000000000
+      internalID: 2224335945906313634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 267
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7047e4b4380d1a0800000000000000
+      internalID: -6786780278985324573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db437f73379b88170800000000000000
+      internalID: 8180992627629831357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc140b73c901d1b40800000000000000
+      internalID: 5412500590304444876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179da8e9589eb3a0800000000000000
+      internalID: -6647708488029071599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa37420973296a0800000000000000
+      internalID: -6444027024587380154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ca57819d1761ea0800000000000000
+      internalID: -5902405084390249397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0312e74f2ca40a2d0800000000000000
+      internalID: -3269531128284962512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b9cfd9a0cb6110800000000000000
+      internalID: 1255308756989358676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05463e8cdd2080f70800000000000000
+      internalID: 9153569394211906640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5899c11e735b1b190800000000000000
+      internalID: -7948372615727638139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8541a583580d284c0800000000000000
+      internalID: -4286634624708635560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee00aebf3ced15940800000000000000
+      internalID: 5283248771208708334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 232
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c876b27a3aa78a00800000000000000
+      internalID: 758762230244604103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf122598674f0120800000000000000
+      internalID: 2382201242406494141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4dab6d835d11c10800000000000000
+      internalID: 2022632147763516665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e850ec0015d02b0800000000000000
+      internalID: -5616744096362820081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d99cfbc27ce01f0800000000000000
+      internalID: -1076704265884820073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68463b95d3a9e25d0800000000000000
+      internalID: -3085359106413599610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139ec211edd5da8f0800000000000000
+      internalID: -527662372980201167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207634ca1ed20fbf0800000000000000
+      internalID: -292683528498092286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cfba02de939ca20800000000000000
+      internalID: 3083059110529989636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a6fc81756a0eca0800000000000000
+      internalID: -5989604611394147828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c2e382bdf85a400800000000000000
+      internalID: 334831918744743005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a20d2303c7242d0800000000000000
+      internalID: -3295935430829004245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 197
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbba6d64202028400800000000000000
+      internalID: 324824331925760956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9793b3a952bdede00800000000000000
+      internalID: 1071534715908602233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_109
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7096b3a928e541ae0800000000000000
+      internalID: -1579533654273857273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f723dd678702030800000000000000
+      internalID: 3467904164987830059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_111
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707d2addb8f50670800000000000000
+      internalID: 8504476965651968127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_112
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7070f19756d9c75e0800000000000000
+      internalID: -1910479082762598649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbfa09fd375dfcb0800000000000000
+      internalID: -4828607301788435498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_114
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703b010fdb16a9460800000000000000
+      internalID: 7249214018610574087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_115
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad67d8b83c92f8f0800000000000000
+      internalID: -508172040506217052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_116
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c98eaf136b8e90800000000000000
+      internalID: -7022410206230757184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_117
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984274bf9fd994700800000000000000
+      internalID: 525124528553534601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_118
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae08dc1c13da4ef0800000000000000
+      internalID: -123053922102800721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_119
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 162
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2381e2999fd0e6420800000000000000
+      internalID: 2625050998471530546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039aa8ffbd7e99360800000000000000
+      internalID: 7177022413262727472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_121
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f45ae6e61a110c0800000000000000
+      internalID: -4606723448148504799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_122
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82193d9de473a6be0800000000000000
+      internalID: -1483312315463659224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_123
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3798f6ec4722f2300800000000000000
+      internalID: 229439991094151539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_124
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6f356e0b4fe6b40800000000000000
+      internalID: 5435550840898451135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_125
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66671af095688f0800000000000000
+      internalID: -538645181755922728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_126
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bbb68bdb2702ac0800000000000000
+      internalID: -3881976719624914145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_127
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49e3ece3e1b84610800000000000000
+      internalID: 1605728859647633740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_128
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3313991cd8e17e0800000000000000
+      internalID: -1792839739008535644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_129
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadb825e8e92aee80800000000000000
+      internalID: -8148654495519687254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_130
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6930a95ae656980800000000000000
+      internalID: -8546303060333062453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_131
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6c4ad55321c2b70800000000000000
+      internalID: 8875488986054051580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8836a7d257f0d0d70800000000000000
+      internalID: 9010875425386816392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_133
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae6cfc06f5f0da90800000000000000
+      internalID: -7291057359584203089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_134
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f305b2d8ab8f560800000000000000
+      internalID: 7347827907534798656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_135
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fb781cab2bd3ea0800000000000000
+      internalID: -5891356222350180592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_136
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b271be6690ed6b0800000000000000
+      internalID: -5269764176341423289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_137
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b711f283614ab3a0800000000000000
+      internalID: -6648930004204709962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_138
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e02ac9ce7086c7530800000000000000
+      internalID: 3854069764366049806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_139
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96abb955fd3ce7f30800000000000000
+      internalID: 4575309635436395113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_140
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e944c1c226aaf22d0800000000000000
+      internalID: -3301232663215717218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_141
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5701bab6ccebe4f90800000000000000
+      internalID: -6967421788306599819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_142
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c705ab3d9f0bdad0800000000000000
+      internalID: -2676528385556674616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Cordelia_FalconKnight_143
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 92
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813147f3d866c04d0800000000000000
+      internalID: -3167043681107307752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
