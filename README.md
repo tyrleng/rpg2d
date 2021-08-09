@@ -1,5 +1,7 @@
 # What this is about
 Attempt to recreate some functionality from 2d tactical RPGs like Fire Emblem.  
+Not sure what the original games used, but I started with Unity and C# since those are the most accessible.
+
 Done out of nostalgia and curiousity at how game development might be like.  
 
 Currently on hold. Life in my day job picked up and I can't concentrate on this project.  
