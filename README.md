@@ -16,7 +16,7 @@ The next problem was calculating all the valid squares that the character can mo
 
 The next problem is in determining the path to the square selected. This step doesn't even require an explicit algorithm. During the floodfilling tile finding process, we'd just need each tile to remember which other tile chose to explore the former tile. Based on this simple data, we can construct a valid path for the character.
 
-The last problem is to allow the character to visually move to the selected square, provided the user clicks in a valid square. The problem here is with getting Unity to slow the action down. Unity's update loops are so fast that even if your character is following a path through all the squares, the character still seem to teleport. Luckily, Unity offers coroutine features that really help out.  
+The last problem is to allow the character to visually move to the selected square, provided the user clicks in a valid square. The problem here is with getting Unity to slow the action down. Unity's update loops are so fast that even if your character is following a path through all the squares, the character still seems to instantaneously teleport. Luckily, Unity offers coroutine features that really help out in this problem.  
 
 ![](https://media.giphy.com/media/Jt2v2hmRvtQN8GgI6h/giphy.gif)
 
